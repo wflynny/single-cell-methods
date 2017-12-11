@@ -1,0 +1,12 @@
+[submodule "single-cell-pseudotime"]
+	path = single-cell-pseudotime
+	url = git@github.com:agitter/single-cell-pseudotime.git
+	branch = master
+[submodule "scRNA-tools"]
+	path = scRNA-tools
+	url = git@github.com:Oshlack/scRNA-tools.git
+	branch = master
+[submodule "awesome-single-cell"]
+	path = awesome-single-cell
+	url = git@github.com:seandavi/awesome-single-cell.git
+	branch = master
